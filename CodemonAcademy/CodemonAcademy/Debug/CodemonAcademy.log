@@ -1,0 +1,8 @@
+﻿  CodemonAcademy.cpp
+C:\Users\Connor\source\repos\CodemonAcademy\CodemonAcademy\CodemonAcademy.cpp(137,54): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Connor\source\repos\CodemonAcademy\CodemonAcademy\CodemonAcademy.cpp(147,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Connor\source\repos\CodemonAcademy\CodemonAcademy\CodemonAcademy.cpp(155,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Connor\source\repos\CodemonAcademy\CodemonAcademy\CodemonAcademy.cpp(162,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Connor\source\repos\CodemonAcademy\CodemonAcademy\CodemonAcademy.cpp(163,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Connor\source\repos\CodemonAcademy\CodemonAcademy\CodemonAcademy.cpp(164,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+  CodemonAcademy.vcxproj -> C:\Users\Connor\source\repos\CodemonAcademy\Debug\CodemonAcademy.exe

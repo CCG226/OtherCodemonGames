@@ -1,0 +1,11 @@
+﻿  CodemonExploreForest.cpp
+  CodemonForestMain.cpp
+C:\Users\Connor\source\repos\CodemonForestMain\CodemonForestMain\CodemonForestMain.cpp(53,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CodemonForestOutput.cpp
+  Codemoncapture.cpp
+  Triangularnumbercheck.cpp
+C:\Users\Connor\source\repos\CodemonForestMain\CodemonForestMain\Triangularnumbercheck.cpp(9,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\Users\Connor\source\repos\CodemonForestMain\CodemonForestMain\CodemonForestOutput.cpp(47): warning C4715: 'MostCommonCodemon': not all control paths return a value
+C:\Users\Connor\source\repos\CodemonForestMain\CodemonForestMain\CodemonExploreForest.cpp(116): warning C4715: 'explore': not all control paths return a value
+  CodemonForestMain.vcxproj -> C:\Users\Connor\source\repos\CodemonForestMain\Debug\CodemonForestMain.exe
